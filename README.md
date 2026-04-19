@@ -1,8 +1,4 @@
-<div align="center">
-
 # Hi 👋, I'm Abdallah
-
-</div>
 
 ### 📫 Contact Me
 
@@ -11,21 +7,8 @@
 
 ---
 
-### 🛠️ Skills
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,cs,cpp,php,java,html,css,react,tailwind,nodejs,fastapi" />
-  <img src="https://skillicons.dev/icons?i=flask,postgres,mongodb,mysql,redis,sqlite,git,docker,postman,figma,linux,arduino" />
-</p>
-
----
-
-<div align="center">
+<a href="#">![Skills](https://skillicons.dev/icons?i=python,js,ts,cs,cpp,php,java,html,css,react,tailwind,nodejs,fastapi,flask,postgres,mongodb,mysql,redis,sqlite,git,docker,postman,figma,linux,arduino)</a>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=tr4cex&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/tr4cex)
 
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats-multiuser.vercel.app/api?usernames=tr4cex&show_icons=true&theme=tokyonight&locale=en" />
-</div>
+<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=tr4cex&show_icons=true&theme=tokyonight&locale=en)</a>
