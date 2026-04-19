@@ -7,7 +7,7 @@
 
 ---
 
-<a href="#">![Skills](https://skillicons.dev/icons?i=python,js,ts,cs,cpp,php,java,html,css,react,tailwind,nodejs,fastapi,flask,postgres,mongodb,mysql,redis,sqlite,git,docker,postman,figma,linux,arduino)</a>
+<a href="#">![Skills](https://skillicons.dev/icons?i=python,js,ts,cs,cpp,php,java,html,css,react,tailwind,nodejs,fastapi,flask,postgres,mongodb,mysql,redis,sqlite,git,docker,postman,figma,linux,arduino&perline=13)</a>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=tr4cex&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/tr4cex)
 
